@@ -57,10 +57,6 @@ The **SMART QUERY RESPONSE SYSTEM** is an AI-powered chatbot designed to provide
 
 Feel free to fork this project and submit pull requests. Contributions, bug reports, and feature requests are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - **Google PaLM**: For providing the language model used for generating responses.
